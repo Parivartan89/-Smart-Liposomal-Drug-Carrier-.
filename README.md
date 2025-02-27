@@ -14,3 +14,4 @@ This breakthrough system **encapsulates anti-cancer drugs in liposome-based nano
 - **Langer, R., & Weiss Leder, R. (2024).** _"Advances in Nanoparticle Drug Delivery: Challenges and Future Directions."_  
 ## Impact Statement  
 By integrating **AI, CRISPR technology, and exosome-mimicking nanoparticles**, our prototype **sets a new benchmark in cancer treatment**. This **transformative innovation in precision medicine** has the potential to **redefine oncology, offering smarter, safer, and more effective cancer therapies for millions worldwide**.
+https://1drv.ms/w/c/874b8e059080b38f/EYFPAKPcIrBPtONDHJNYjzgBGxeB7sDrcSpD77zi6-bKlw
